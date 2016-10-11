@@ -40,3 +40,9 @@ jspm_packages
 
 # vim
 *.sw[lmnop]
+
+# api token, password, and credential files
+*.token
+*.passwd
+*.password
+*.credentials
